@@ -1,3 +1,4 @@
+//t0
 console.log("Aruzhan Amerkhanova");
 console.log("SE-2529");
 
@@ -5,7 +6,7 @@ alert("Hello, JavaScript World!");
 
 
 
-
+//t1
 let name = "Aruzhan";
 let age = 18;
 let isStudent = true;
