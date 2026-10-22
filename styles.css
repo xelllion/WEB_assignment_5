@@ -69,3 +69,10 @@ footer a {
     color: #333;
     margin: 10px;
 }
+
+#box {
+    background-color: #b3deff;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
